@@ -1,6 +1,11 @@
 # Nix
 
-> Moving on to the next shiny thing: learning Nix to look cooler than the Arch normies + Arch got boring.
+> Moving on to the next shiny thing: Nix And NixOS
+
+- Learning Nix to sound cool in front of Docker and imperative package management normies.
+- Functional Programming concepts are underrated.
+- Fully (stateless) declarative packaging / configuration system.
+- Arch Linux got boring (consumed the whole arch wiki)
 
 ## Resources
 
